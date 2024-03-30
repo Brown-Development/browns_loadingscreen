@@ -1,0 +1,12 @@
+{
+    "name": "browns_loadingscreen",
+    "description": "advanced loading screen script for fivem",
+    "version": "1.0.0",
+    "main": "server.js",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "12.5.3",
+        "path": "^0.12.7",
+        "@overextended/oxmysql": "1.3.0"
+    }
+}
