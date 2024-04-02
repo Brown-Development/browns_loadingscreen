@@ -13,7 +13,7 @@ const Config = {
 
     },
 
-    videoFileName: 'example_video.mp4', // name of video file for background video. Make sure you put this in ui/assets/video folder
+    videoFileName: 'example_video.mp4', // [DO NOT USE A .webm FILE] name of video file for background video. Make sure you put this in ui/assets/video folder
     serverLogoFile: 'logo.png', // server logo file name this file should be placed in ui/assets/photos folder
 
     serverTips: [ // this are tips that show in the menu when you click the menu button at the top left of the loading screen
