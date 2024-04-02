@@ -23,7 +23,6 @@ files {
     'ui/assets/video/*.mov',
     'ui/assets/video/*.avi',
     'ui/assets/video/*.wmv',
-    'ui/assets/video/*.webm',
     'ui/assets/video/*.flv'
 }
 
