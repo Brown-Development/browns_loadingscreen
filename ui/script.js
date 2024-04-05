@@ -47,6 +47,8 @@ $(document).ready(()=>{
     $('#bg-video').attr('src', `./assets/video/${config.videoFileName}`)
     $('#audio').attr('src', `./assets/songs/${config.musicPlayer.defaultSongPath}`)
 
+    $('#bg-video')[0].play()
+
     let channel = null
     let galleryActive = false 
     let tipActive = false 
